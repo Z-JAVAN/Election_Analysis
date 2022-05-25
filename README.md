@@ -69,9 +69,9 @@ The winner of the election was:
 Diana DeGette, who received 73.8% of the vote and 272,892 of votes. </br>
 
 
-![photo1.png](/resources/photo1.png)<br/>
+![picture1.png](/resources/picture1.png)<br/>
  </br>
- ![photot6.png](/resources/photo6.png)<br/>
+ ![picture6.png](/resources/picture6.png)<br/>
  </br>
  5-summery:
  The advantage of this program is that it has a very simple and conversational language and we can use different programs to examine the data and examine the results. For example, we found out by examining the candidates that:
